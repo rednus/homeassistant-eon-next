@@ -1,0 +1,6 @@
+{
+  "name": "E.ON Next Integration",
+  "render_readme": true,
+  "country": ["GB"],
+  "iot_class": "cloud_polling"
+}
